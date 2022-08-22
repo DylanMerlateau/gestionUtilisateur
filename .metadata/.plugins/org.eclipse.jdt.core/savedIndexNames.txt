@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\dybuzz\Documents\Formation_2022\POI25\GIT\exemples\wk_git\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2781303332.index
